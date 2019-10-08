@@ -21,3 +21,12 @@
 var city = "Dharamshala";
 var country = "India";
 // Alert the above variable like "Dharamshala, India";
+
+
+// console.log("I'm Learning Javascript");
+
+
+let name="John";
+        let admin=(name);
+        alert(admin);
+        
