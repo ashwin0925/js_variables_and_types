@@ -2,7 +2,7 @@
 ```js
 var name = "Mark";
 
-name is nothing but a variable name used to store the string "Mark".
+// name is nothing but a variable name used to store the string "Mark".
 
 ```
 
@@ -10,32 +10,32 @@ name is nothing but a variable name used to store the string "Mark".
 ```js
   var product cost = 3.45;
 
-syntax error because there should not be a space between variable name.
+// syntax error because there should not be a space between variable name.
 
 ```
 
 3. Write `Right or Wrong` next to the code below.
 
 ```js
-  "Hello World" Right
-  'Hello World" wrong
-  "Hello World' wrong
-  'Hello World' Right
+  "Hello World" // Right
+  'Hello World" // wrong
+  "Hello World' // wrong
+  'Hello World' // Right
 ```
 
 ## Write `VALID` and `INVALID` infront of the variable name defined below
 ```js
-var man; VALID
-var 1girl; INVALID
-var woman3; VALID
-var -girl; INVALID
-var blackDog; VALID
-var 42; INVALID
-var $42; VALID
-var userName; VALID
-var x, y, z; VALID
-var x = 5, y = 6, z = 7; VALID
-var x = 5 + 10 + 2; VALID
+var man; // VALID
+var 1girl; // INVALID
+var woman3; // VALID
+var -girl; // INVALID
+var blackDog; // VALID
+var 42; // INVALID
+var $42; // VALID
+var userName; // VALID
+var x, y, z; // VALID
+var x = 5, y = 6, z = 7; // VALID
+var x = 5 + 10 + 2; // VALID
 ```
 
 ## Basic Operations
